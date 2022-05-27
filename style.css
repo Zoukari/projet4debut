@@ -559,6 +559,13 @@ a[data-lightbox]:hover img {
     -webkit-animation-fill-mode: none;
     animation-fill-mode: none;
 }
+.forimage{
+    width: 270px;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+}
 
 #lightbox-modal {
     display: flex;
